@@ -1,0 +1,17 @@
+.footer-container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.footer-container div p {
+ text-align: start;
+ color: #2f1c6a;
+ font-size: 15px;
+}
+
+.footer-container div h3{
+    text-align: start;
+ color: #2f1c6a;
+}
+

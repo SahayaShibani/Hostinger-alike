@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+.first-container{
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    color: #2f1c6a;
+    height: 100vh;
+   
+}
+.left-first-container{
+    padding-top: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 25%;
+    /* align-items: center; */
+    /* justify-content: start; */
+}
